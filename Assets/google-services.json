@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "182059864784",
+    "project_id": "login-dba9e",
+    "storage_bucket": "login-dba9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182059864784:android:c3b27e793ceaf319ba04d5",
+        "android_client_info": {
+          "package_name": "com.adu.glogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182059864784-kbs8068kqtu5fo7atb30hmq49pubenf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adu.glogin",
+            "certificate_hash": "8ca14b8984b927e19810373d0f38a9086063d138"
+          }
+        },
+        {
+          "client_id": "182059864784-13ntdogv7h0884t5627a9unvqmj3n0ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFfD0mAy70LBog6Q_bO2lbu70vxZstquM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182059864784-13ntdogv7h0884t5627a9unvqmj3n0ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
